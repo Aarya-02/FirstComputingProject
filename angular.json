@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FirstComputingProject"
+    }
+  },
+  "defaultProject": "FirstComputingProject",
+  "cli": {
+    "analytics": "dbbbbe77-4e8a-412d-86f0-8a69335129c8"
+  }
 }
